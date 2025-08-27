@@ -1,16 +1,15 @@
-## Hi there 👋
+## tutu-san's page
 
-<!--
-**tutu-san/tutu-san** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### introduction
+つつさんのgithubページです。  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ここにあるもの
+ないので、こっちを見るべきです。
+[TNCTRobocon](https://github.com/TNCTRobocon)
+  
+強いて言うなら
+* ロボコン時代の教育の残骸 (教材・他)
+* ロボコンとは直接関係なかったプログラムたち (テスト用プログラム)
+* ほか、製作中のなにか
+が入っています。
+機械学習とか、自己位置推定とか、自動運転とか、ROSとかは、専門外ですのでございません。  
